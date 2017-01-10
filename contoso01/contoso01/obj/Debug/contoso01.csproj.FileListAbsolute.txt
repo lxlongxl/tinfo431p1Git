@@ -1,0 +1,206 @@
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\csc.exe
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CSharp.Core.targets
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\System.Collections.Immutable.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\System.Reflection.Metadata.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\vbc.exe
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe.config
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.dll.config
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.pdb
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Antlr3.Runtime.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.SqlServer.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Web.Infrastructure.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Newtonsoft.Json.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Owin.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Helpers.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Mvc.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Optimization.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Razor.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Deployment.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Razor.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\WebGrease.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Helpers.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Mvc.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Optimization.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Razor.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Deployment.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Razor.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Antlr3.Runtime.pdb
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Newtonsoft.Json.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.SqlServer.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\obj\Debug\contoso01.dll
+\\stuserv2\longn2$\Visual Studio 2015\Projects\contoso01\contoso01\obj\Debug\contoso01.pdb
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\csc.exe
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\System.Collections.Immutable.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\System.Reflection.Metadata.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\vbc.exe
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe.config
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.dll.config
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\contoso01.pdb
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Antlr3.Runtime.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.SqlServer.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Web.Infrastructure.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Newtonsoft.Json.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Owin.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Helpers.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Mvc.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Optimization.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Razor.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Deployment.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Razor.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\WebGrease.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Helpers.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Mvc.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Optimization.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.Razor.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Deployment.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\System.Web.WebPages.Razor.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Antlr3.Runtime.pdb
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Newtonsoft.Json.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\EntityFramework.SqlServer.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\Visual Studio 2015\Projects\contoso01\contoso01\obj\Debug\contoso01.csprojResolveAssemblyReference.cache
+H:\Visual Studio 2015\Projects\contoso01\contoso01\obj\Debug\contoso01.dll
+H:\Visual Studio 2015\Projects\contoso01\contoso01\obj\Debug\contoso01.pdb
+C:\contoso01\contoso01\obj\Debug\contoso01.dll
+C:\contoso01\contoso01\obj\Debug\contoso01.pdb
+C:\contoso01\contoso01\bin\roslyn\csc.exe
+C:\contoso01\contoso01\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\contoso01\contoso01\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\contoso01\contoso01\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\contoso01\contoso01\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\contoso01\contoso01\bin\roslyn\System.Collections.Immutable.dll
+C:\contoso01\contoso01\bin\roslyn\System.Reflection.Metadata.dll
+C:\contoso01\contoso01\bin\roslyn\vbc.exe
+C:\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe
+C:\contoso01\contoso01\bin\roslyn\VBCSCompiler.exe.config
+C:\contoso01\contoso01\bin\contoso01.dll.config
+C:\contoso01\contoso01\bin\contoso01.dll
+C:\contoso01\contoso01\bin\contoso01.pdb
+C:\contoso01\contoso01\bin\Antlr3.Runtime.dll
+C:\contoso01\contoso01\bin\EntityFramework.dll
+C:\contoso01\contoso01\bin\EntityFramework.SqlServer.dll
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.dll
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.dll
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.dll
+C:\contoso01\contoso01\bin\Microsoft.Web.Infrastructure.dll
+C:\contoso01\contoso01\bin\Newtonsoft.Json.dll
+C:\contoso01\contoso01\bin\Owin.dll
+C:\contoso01\contoso01\bin\System.Web.Helpers.dll
+C:\contoso01\contoso01\bin\System.Web.Mvc.dll
+C:\contoso01\contoso01\bin\System.Web.Optimization.dll
+C:\contoso01\contoso01\bin\System.Web.Razor.dll
+C:\contoso01\contoso01\bin\System.Web.WebPages.Deployment.dll
+C:\contoso01\contoso01\bin\System.Web.WebPages.dll
+C:\contoso01\contoso01\bin\System.Web.WebPages.Razor.dll
+C:\contoso01\contoso01\bin\WebGrease.dll
+C:\contoso01\contoso01\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\contoso01\contoso01\bin\System.Web.Helpers.xml
+C:\contoso01\contoso01\bin\System.Web.Mvc.xml
+C:\contoso01\contoso01\bin\System.Web.Optimization.xml
+C:\contoso01\contoso01\bin\System.Web.Razor.xml
+C:\contoso01\contoso01\bin\System.Web.WebPages.xml
+C:\contoso01\contoso01\bin\System.Web.WebPages.Deployment.xml
+C:\contoso01\contoso01\bin\System.Web.WebPages.Razor.xml
+C:\contoso01\contoso01\bin\Antlr3.Runtime.pdb
+C:\contoso01\contoso01\bin\Newtonsoft.Json.xml
+C:\contoso01\contoso01\bin\EntityFramework.xml
+C:\contoso01\contoso01\bin\EntityFramework.SqlServer.xml
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Core.xml
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\contoso01\contoso01\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Facebook.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Cookies.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.OAuth.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Google.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.Twitter.xml
+C:\contoso01\contoso01\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\contoso01\contoso01\obj\Debug\contoso01.csprojResolveAssemblyReference.cache
